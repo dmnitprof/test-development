@@ -1,4 +1,6 @@
 body {
+  display: grid;
+  grid-template-areas: header header header;
 background: green;
 color: yellow;
 text-align: center;
